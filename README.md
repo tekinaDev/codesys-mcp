@@ -27,7 +27,7 @@ By adding this to VS Code, you can add more scripting functions and build a know
 * `codesys://project/{+project_path}/structure`: Retrieve the object structure of a specified project.
 * `codesys://project/{+project_path}/pou/{+pou_path}/code`: Read the declaration and implementation code for a specified POU, Method, or Property accessor.
 
-## Installation Steps
+# Installation Steps
 
 * Open VS Code
 * Hit `CTRL+SHIFT+P`
@@ -71,11 +71,11 @@ By adding this to VS Code, you can add more scripting functions and build a know
 
 * Enable the MCP with the AI chatbot and **Enjoy coding!!**
 
-## Results
+# Results
 
 [Image: Screen Recording 2026-01-28 at 11.23.31 AM.mov][Image: Screen Recording 2026-01-28 at 11.29.45 AM.mov][Image: Screenshot 2026-01-28 at 11.41.05 AM.png]
 
-## What's next?
+# What's next?
 
 I will continue updating this repo with more functions and add knowledgebase for ease. 
 Thank you to everyone in the community!
