@@ -84,5 +84,10 @@ https://github.com/user-attachments/assets/d6acce4d-f373-4793-8ef4-8b3819bd1b4c
 
 # What's next?
 
-I will continue updating this repo with more functions and add knowledgebase for ease. 
+I will continue updating this repo with more functions and add knowledgebases for ease. 
+
+Knowledgebase: https://content.helpme-codesys.com/en/libs/index.html (most/all chatbots can scrape through and fetch the correct information from within this list)
+IEC61131: https://www.isa.org/intech-home/2016/september-october/features/programming-standards-improve-automation-controls 
+Best Practices: https://industrialmonitordirect.com/blogs/knowledgebase/plc-programming-standards-and-best-practices-for-maintainable-industrial-code?srsltid=AfmBOoo-eZO-8yFZP1p5q3V92zLdXW1sHeSexP0YCnbPeqW1vhN69COq
+
 Thank you to everyone in the community!
