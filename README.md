@@ -33,10 +33,12 @@ By adding this to VS Code, you can add more scripting functions and build a know
 * Hit `CTRL+SHIFT+P`
 * Search for `MCP: Add Server`
 
-[Image: Screenshot 2026-01-28 at 11.09.01 AM.png]
+<img width="1195" height="803" alt="Screenshot 2026-01-28 at 11 09 01 AM" src="https://github.com/user-attachments/assets/d2d16f78-a6e1-4636-8d22-e77aac856996" />
+
 * Select `Install with NPM Package`
 
-[Image: Screenshot 2026-01-28 at 11.09.13 AM.png]
+<img width="1195" height="803" alt="Screenshot 2026-01-28 at 11 09 13 AM" src="https://github.com/user-attachments/assets/6328432c-fa46-47f5-9e01-532ff5514b54" />
+
 * Type `@codesys/mcp-toolkit` and hit enter
     This will take you to a `mcp.json` file in VS Code Editor
 * Edit the file to match these contents
@@ -63,17 +65,22 @@ By adding this to VS Code, you can add more scripting functions and build a know
 
 * Restart the server
 
-[Image: Screenshot 2026-01-28 at 11.14.23 AM.png]
+<img width="831" height="914" alt="Screenshot 2026-01-28 at 11 14 23 AM" src="https://github.com/user-attachments/assets/7a322c48-a7b8-491a-93fd-0d80905c9655" />
 
 * Verify if the tools are loaded
 
-[Image: Screenshot 2026-01-28 at 11.18.46 AM.png]
+<img width="602" height="204" alt="Screenshot 2026-01-28 at 11 18 46 AM" src="https://github.com/user-attachments/assets/1085cb73-336f-4cb8-9e15-2db4272d9c07" />
 
 * Enable the MCP with the AI chatbot and **Enjoy coding!!**
 
 # Results
 
-[Image: Screen Recording 2026-01-28 at 11.23.31 AM.mov][Image: Screen Recording 2026-01-28 at 11.29.45 AM.mov][Image: Screenshot 2026-01-28 at 11.41.05 AM.png]
+https://github.com/user-attachments/assets/9514af74-9890-45d9-b893-43e5301f684f
+
+<img width="1916" height="963" alt="Screenshot 2026-01-28 at 11 41 05 AM" src="https://github.com/user-attachments/assets/400a7f9d-644b-43a8-8813-3f69a91e1a7d" />
+
+https://github.com/user-attachments/assets/d6acce4d-f373-4793-8ef4-8b3819bd1b4c
+
 
 # What's next?
 
